@@ -8,14 +8,14 @@
 
 </div>
 
-**Signatura** is an e-signature platform for sending, signing, and sealing documents online — with AI-assisted field placement, multi-signer workflows, and a SHA-256-sealed audit trail on every completed document. One plan with everything included, priced per seat, with the rate falling as your team grows. Signatura is built and operated by **Austrat Trading Corp.**, a company incorporated in British Columbia, Canada.
+**Signatura** is an e-signature platform for sending, signing, and sealing documents online — with connections to AI apps like Claude and Grok, multi-signer workflows, and a SHA-256-sealed audit trail on every completed document. One plan with everything included, priced per seat, with the rate falling as your team grows. Signatura is built and operated by **Austrat Trading Corp.**, a company incorporated in British Columbia, Canada.
 
 ## What Signatura does
 
 - **Send and sign** — upload a PDF, DOCX, PNG, or JPG, place the fields, and send to as many signers as you need, sequentially or in parallel. Signers never need an account and are never charged; they sign from an emailed link in any browser.
-- **Auto-Sign** — AI analyzes your document and places signature, date, and text fields automatically. You review, confirm, and send.
+- **AI apps** — connect Claude, Grok or another AI app and ask in plain words: find a contract, send it, chase whoever hasn't signed, or sign what's waiting for you. Signing always needs the code Signatura emails you.
 - **Seal and verify** — every completed document is sealed with a SHA-256 integrity hash and a full audit trail recording who signed, when, and from where. Anyone holding the file can re-verify it — no account required — at [app.getsignatura.com/verify](https://app.getsignatura.com/verify).
-- **8 field types** — Signature, Initials, Date Signed, Text Input, Checkbox, Dropdown, Attachment, and Auto-Number, each assignable per signer, required or optional.
+- **9 field types** — Signature, Initials, Date Signed, Text Input, Checkbox, Dropdown, Attachment, Image, and Auto-Number, each assignable per signer, required or optional.
 - **Teams and branding** — document visibility controls, co-editing, one-step offboarding with document transfer, plus your logo, brand colors, and custom email templates on every plan.
 - **Seven languages** — English, Spanish, French, German, Portuguese, Russian, and Latvian, across the whole product: dashboard, editor, signing pages, emails, and notifications. Each recipient's language is chosen individually.
 - **Cloud imports** — one-click import from Google Drive, Dropbox, and Microsoft OneDrive; export completed documents back.
